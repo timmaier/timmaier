@@ -1,4 +1,4 @@
-### Hi there 👋
+### Build stuff using Laravel, Vue 3 and TailwindCSS
 
 <!--
 **timmaier/timmaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
