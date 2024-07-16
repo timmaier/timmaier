@@ -1,6 +1,6 @@
 ### Launch products using Laravel, Vue 3 and TailwindCSS
 
--  Currently working Trilogy Care improving how people manager their home care.
+-  Currently working at Trilogy Care improving how people manage their home care.
 
 <!--
 **timmaier/timmaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
