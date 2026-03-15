@@ -1,4 +1,4 @@
-### Launch products using Laravel, Vue 3 and TailwindCSS
+### I build products https://timmaier.dev
 
 -  Currently working at Trilogy Care improving how people manage their home care.
 
